@@ -1,0 +1,7 @@
+{
+    "description": "Base Tickers' IPO JDate",
+    "Columns Names": [
+        "BaseTicker",
+        "IPOJDate"
+    ]
+}
